@@ -12,13 +12,13 @@ I am passionate about **data analysis, technology, and design**. With a backgrou
 ## 💡 Skills & Tools  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" title="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Postgresql_elephant.svg" width="40" title="PostgreSQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg" width="40" title="MySQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Tableau_Logo.svg" width="40" title="Tableau">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Power_BI_Logo.svg" width="40" title="Power BI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Adobe_Lightroom_Classic_icon.svg" width="40" title="Lightroom">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/DaVinci_Resolve_Logo.svg" width="40" title="DaVinci Resolve">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/PostgreSQL.png" width="40" title="PostgreSQL">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Tableau.png" title="Tableau">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Power_BI-Logo.wine.svg"40" title="Power BI">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="40" title="Lightroom">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/DaVinci_Resolve_Studio.png?raw=true" width="40" title="DaVinci Resolve">
 </p>
+
 
 ---
 
