@@ -1,6 +1,7 @@
-# 🌎 Welcome to My GitHub Profile! 👋  
-![Banner](https://raw.githubusercontent.com/Rogers2209/Rogers2209/main/Banner-Rogers.png)
-  
+<div align="center">
+  <h1>🌎 Welcome to My GitHub Profile! 👋</h1>
+  <img src="https://raw.githubusercontent.com/Rogers2209/Rogers2209/main/Banner-Rogers.png" alt="Banner" />
+</div>
 
 📊 **Data Analytics | Photography-Video**  
 
