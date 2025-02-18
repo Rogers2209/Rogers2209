@@ -12,9 +12,9 @@ I am passionate about **data analysis, technology, and design**. With a backgrou
 ## 💡 Skills & Tools  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35" title="Python">
-  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/PostgreSQL.png" width="63" title="PostgreSQL">
-  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Tableau.png" width="40" title="Tableau">
-  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Power_BI-Logo.wine.png  width="40" title="Power BI">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/PostgreSQL.png" width="65" title="PostgreSQL">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Tableau.png" width="65" title="Tableau">
+  <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Power_BI-Logo.wine.png" width="40"  title="Power BI">
   <img src="https://github.com/Rogers2209/Rogers2209/blob/main/Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="40" title="Lightroom">
   <img src="https://github.com/Rogers2209/Rogers2209/blob/main/DaVinci_Resolve_Studio.png?raw=true" width="40" title="DaVinci Resolve">
 </p>
