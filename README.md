@@ -1,5 +1,6 @@
 # 🌎 Welcome to My GitHub Profile! 👋  
-![Banner](https://via.placeholder.com/1000x300)  
+![Banner](https://raw.githubusercontent.com/Rogers2209/Rogers2209/main/Banner-Rogers.png)
+  
 
 📊 **Data Analytics | Photography-Video**  
 
